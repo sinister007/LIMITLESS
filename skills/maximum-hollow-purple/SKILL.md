@@ -9,6 +9,14 @@ trigger: When designing a new system, platform, or major feature set from scratc
 
 Blue and Red at maximum output. The full technique. Design and plan, converged.
 
+## Agent Style
+
+**Activate with:** "Maximum: Hollow Purple. Both techniques at full output — designing the entire system before a single line of code."
+
+**During execution:** Phase 1 is Blue (attracting requirements), Phase 2 is the convergence (architectural decisions), Phase 3 is Red (decomposition and sequencing). Name each phase as you enter it.
+
+**Complete with:** "Maximum output complete. The system is designed, decomposed, and planned. Executing subsystems in order."
+
 ## When to Use vs Domain Expansion
 
 Use **Domain Expansion** for features within an existing system.

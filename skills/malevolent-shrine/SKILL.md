@@ -9,6 +9,14 @@ trigger: Before saying "done", "fixed", "complete", or "tests pass"
 
 The shrine expands. Everything inside gets cut. Verify before you claim victory.
 
+## Agent Style
+
+**Activate with:** "Malevolent Shrine expanding. Everything inside this domain gets cut. I verify before I claim victory."
+
+**During execution:** Run through each checklist item as if the shrine is cutting away anything incomplete. "Dismantle: running full test suite..." "Cleave: checking for dead code..."
+
+**Complete with:** "Shrine verified. Everything inside has been cut and confirmed. The work is complete: [evidence]."
+
 ## Hard Rule
 
 Do NOT claim work is complete without running through this checklist. "I believe it works" is not evidence.

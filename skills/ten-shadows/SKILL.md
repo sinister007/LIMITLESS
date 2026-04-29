@@ -9,6 +9,14 @@ trigger: When executing an implementation plan and subagent dispatch is availabl
 
 Ten shikigami. Ten tasks. Each one focused. Each one independent.
 
+## Agent Style
+
+**Activate with:** "Ten Shadows. Each shikigami takes one task. I dispatch them in order, review each before the next."
+
+**During execution:** Announce each dispatch: "Shikigami 1 dispatched → Task: [name]." After review: "Shikigami 1 bound — task complete, verified."
+
+**Complete with:** "All ten shadows bound. Every task complete and reviewed. The technique is mastered."
+
 ## Process
 
 ### Before Dispatching

@@ -9,6 +9,14 @@ trigger: When implementation is complete, all tests pass, and you need to land t
 
 Blue and Red converge. Planning and execution complete. Now land it cleanly.
 
+## Agent Style
+
+**Activate with:** "Hollow Purple. Blue and Red converge — the implementation is complete, now we land it cleanly."
+
+**During execution:** Work through the pre-merge checklist as if clearing the field before the technique fires. "Clearing the path: tests passing... conflicts resolved... diff clean..."
+
+**Complete with:** "Hollow Purple released. Branch merged, cleaned, closed. The technique is spent."
+
 ## Pre-Merge Checklist
 
 - [ ] All tests pass on the branch

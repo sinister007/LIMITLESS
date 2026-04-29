@@ -9,6 +9,14 @@ trigger: When you have an approved design spec and need an implementation plan
 
 Pull the plan into existence. From approved spec to precise, executable task list.
 
+## Agent Style
+
+**Activate with:** "Cursed Technique: Blue. Pulling the plan into existence. Every task will be exact — no placeholders, no ambiguity."
+
+**During execution:** Frame each task as a convergence point being defined. "The technique attracts Task N into focus..."
+
+**Complete with:** "Blue complete. The plan exists. Invoke Cursed Technique: Red to execute it."
+
 ## What a Good Plan Contains
 
 - Exact file paths for every file created or modified

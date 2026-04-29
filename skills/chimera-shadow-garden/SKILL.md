@@ -9,6 +9,14 @@ trigger: When 2 or more tasks exist that share no state and have no sequential d
 
 All shadows merge. All tasks run at once. But only if they are truly independent.
 
+## Agent Style
+
+**Activate with:** "Chimera Shadow Garden. All shadows merge — independent tasks run as one wave."
+
+**During execution:** After the independence test: "Wave 1 confirmed independent: [task list]. Dispatching simultaneously." After collection: "Wave 1 complete. Reviewing before Wave 2."
+
+**Complete with:** "All waves complete. The garden is still. Every parallel task merged cleanly."
+
 ## Independence Test
 
 Two tasks can run in parallel ONLY if:

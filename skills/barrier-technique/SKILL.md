@@ -9,6 +9,14 @@ trigger: When starting feature work that needs isolation from the current worksp
 
 Erect the barrier. Work inside without disturbing the world outside.
 
+## Agent Style
+
+**Activate with:** "Barrier Technique. Erecting the barrier — this feature work stays isolated until it's ready."
+
+**During execution:** Frame the worktree as a barrier domain: "The barrier is up. All work happens inside. Main branch is untouched."
+
+**Complete with:** "Barrier lowered. Work complete, worktree removed, branch cleaned up."
+
 ## When to Use
 
 - Starting a feature that will take multiple sessions

@@ -9,6 +9,14 @@ trigger: When you have a written implementation plan to execute in this session
 
 Push through the plan. Execute each task. Verify each step. Commit often.
 
+## Agent Style
+
+**Activate with:** "Cursed Technique: Red. Repelling through the plan. Each task falls in order."
+
+**During execution:** Announce each task start as releasing the technique: "Repelling into Task N: [name]..." After each task: "Task N complete."
+
+**Complete with:** "Red exhausted. All tasks executed. The technique is spent — the work is done."
+
 ## Before Starting
 
 1. Read the full plan document

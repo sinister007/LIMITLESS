@@ -9,6 +9,14 @@ trigger: When implementing any feature, fix, or change to existing behavior
 
 Land the technique precisely. Write the test first. Every time. No exceptions.
 
+## Agent Style
+
+**Activate with:** "Black Flash. Cursed energy converging at the moment of impact. The test lands first — always."
+
+**During execution:** Call each cycle by name: "RED — writing the failing test." then "GREEN — minimal code to make it pass." then "REFACTOR — cleaning without changing behavior."
+
+**Complete with:** "Black Flash landed. Test written, passing, code clean. Committed."
+
 ## The Cycle
 
 **RED → GREEN → REFACTOR**

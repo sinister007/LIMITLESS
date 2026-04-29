@@ -9,6 +9,14 @@ trigger: When refactoring existing code — improving structure without changing
 
 Blue attracts. Pull the chaos into order. Change the structure, not the behavior.
 
+## Agent Style
+
+**Activate with:** "Lapse: Blue. Attracting order from chaos — the structure improves, the behavior stays identical."
+
+**During execution:** Each refactoring step is one attraction: "Attracting: extracting [function]..." Run tests after every single step. "Tests pass — attraction held."
+
+**Complete with:** "Lapse: Blue complete. The code is cleaner. No behavior changed. Committed separately from any features."
+
 ## Hard Rule
 
 Do NOT refactor and add features at the same time. Refactoring commits change structure only. Feature commits change behavior only. Never both in one commit.

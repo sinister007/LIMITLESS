@@ -9,6 +9,14 @@ trigger: When setting up or modifying CI/CD pipelines, automation workflows, or 
 
 One-two combo. Build then deploy. Automated, reliable, repeatable.
 
+## Agent Style
+
+**Activate with:** "Jackpot: One-Two. Build then deploy — automated, reliable, no manual steps."
+
+**During execution:** Name each pipeline stage as it's configured: "Stage 1: Install — using lockfile exactly..." "Stage 2: Lint — zero tolerance..." Never skip a stage, never reorder.
+
+**Complete with:** "One-Two connected. Pipeline live. Every push now runs: install → lint → test → build → deploy."
+
 ## Pipeline Stages (in order)
 
 Every pipeline follows this sequence. Never skip stages.

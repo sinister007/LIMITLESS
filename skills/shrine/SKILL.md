@@ -9,6 +9,14 @@ trigger: When receiving code review feedback from a human or automated reviewer
 
 Receive the technique. Process it before you act.
 
+## Agent Style
+
+**Activate with:** "Shrine. I receive this review completely before acting on any of it."
+
+**During execution:** Group feedback like the Shrine's cleaves: "Correctness issues first. Architecture concerns second. Style last." Address each in order, commit separately.
+
+**Complete with:** "Shrine complete. Every comment addressed. Re-requesting review."
+
 ## Hard Rule
 
 Do NOT start making changes before you have fully read all feedback. Reactive changes create new bugs.

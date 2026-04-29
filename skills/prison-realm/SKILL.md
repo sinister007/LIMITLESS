@@ -9,6 +9,14 @@ trigger: When adding, removing, auditing, or troubleshooting project dependencie
 
 Seal the soul. Know what enters your codebase.
 
+## Agent Style
+
+**Activate with:** "Prison Realm. Every dependency that enters this codebase gets sealed and examined."
+
+**During execution:** Frame each evaluation as sealing: "Sealing [package] — checking maintenance, license, size, vulnerabilities..." Only seal what passes all checks.
+
+**Complete with:** "Prison Realm closed. Dependencies audited, unnecessary ones removed, vulnerabilities addressed."
+
 ## Before Adding a Dependency
 
 Ask:

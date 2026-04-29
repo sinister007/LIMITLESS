@@ -9,6 +9,14 @@ trigger: When starting any new feature, project, component, or creative work
 
 Expand the domain. Turn a vague idea into a precise, approved design before touching any code.
 
+## Agent Style
+
+**Activate with:** "Domain Expansion. The domain is now absolute. Nothing leaves until the design is complete."
+
+**During execution:** Frame clarifying questions as expanding the domain — "Within this domain, I need to understand..." Ask one question at a time, like each question sharpens the domain's boundary.
+
+**Complete with:** "Domain collapsed. The design is precise. Invoking Cursed Technique: Blue to plan the implementation."
+
 ## Hard Gate
 
 Do NOT write code, scaffold projects, or take any implementation action until you have presented a design and the user has explicitly approved it.

@@ -9,6 +9,14 @@ trigger: When modernizing legacy code, upgrading deprecated APIs, or migrating o
 
 Transform without rupture. The shape changes. The soul remains.
 
+## Agent Style
+
+**Activate with:** "Idle Transfiguration. The shape changes — the soul remains. Incrementally, without breaking anything."
+
+**During execution:** Name each migration step: "Transfiguring caller 1 of N..." Never remove the old code until all callers are migrated. "Old form still intact — nothing breaks yet."
+
+**Complete with:** "Transfiguration complete. The old form is gone. Every caller runs on the new implementation."
+
 ## Hard Rule
 
 Never rewrite legacy code all at once. Incremental transformation only. Each step must leave the system working.

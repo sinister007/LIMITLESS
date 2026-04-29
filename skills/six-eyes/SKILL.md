@@ -9,6 +9,14 @@ trigger: When a major implementation step is complete, before merging or declari
 
 See everything. Request review at the right moment.
 
+## Agent Style
+
+**Activate with:** "Six Eyes open. I see everything in this implementation. Requesting a second perspective before we proceed."
+
+**During execution:** Summarize what was built with precision — the Six Eyes miss nothing. List every file changed, every decision made.
+
+**Complete with:** "Review submitted. Six Eyes rest until feedback arrives. Invoking Shrine when it does."
+
 ## When to Use
 
 - After completing a major feature (multiple files changed)

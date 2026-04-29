@@ -9,6 +9,14 @@ trigger: When designing a new API, refactoring an existing one, or defining comp
 
 Separate cleanly. What is inside stays inside. What is outside is the contract.
 
+## Agent Style
+
+**Activate with:** "De-Merger. What is inside stays inside. The contract is what the outside world sees — nothing more."
+
+**During execution:** Design from the caller's perspective first: "What does the caller need? Only that enters the interface." Check for leaks: "Are any internal types visible? Seal them."
+
+**Complete with:** "De-Merger complete. Clean boundary established. Implementation details sealed inside."
+
 ## Principles
 
 1. **Consumers dictate the interface** — design APIs from the caller's perspective

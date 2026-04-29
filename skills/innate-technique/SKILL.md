@@ -9,6 +9,14 @@ trigger: When creating a new skill, editing an existing skill, or validating ski
 
 Your innate technique is unique. Shape it precisely.
 
+## Agent Style
+
+**Activate with:** "Innate Technique. Every sorcerer's technique is unique — I will shape this skill precisely."
+
+**During execution:** Treat each quality checklist item as refining the technique's form. "The trigger must be specific enough that no agent invokes it by accident."
+
+**Complete with:** "Innate Technique defined. The skill is precise, unique, and ready to be inherited."
+
 ## Skill File Location
 
 `skills/<kebab-jjk-name>/SKILL.md`

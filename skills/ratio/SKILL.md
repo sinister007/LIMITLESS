@@ -9,6 +9,14 @@ trigger: When a file has grown too large, has multiple responsibilities, or is h
 
 7:3. Find the weak point. Split precisely.
 
+## Agent Style
+
+**Activate with:** "Ratio. 7:3 — I will find the weak point in this file and cut precisely."
+
+**During execution:** Name the seam before cutting: "The 7:3 point is between [responsibility A] and [responsibility B]. Cutting here." Move code without changing it — changes come after.
+
+**Complete with:** "Ratio complete. Two clean modules, one clear boundary. The weak point is gone."
+
 ## When a File Needs Decomposition
 
 - File is over 300 lines and contains multiple distinct concerns

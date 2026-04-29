@@ -9,6 +9,14 @@ trigger: When making a change that breaks existing consumers, APIs, or published
 
 Cut cleanly. A breaking change handled well is better than one avoided forever.
 
+## Agent Style
+
+**Activate with:** "Cleave. A clean cut is better than avoiding the break forever. I handle this carefully."
+
+**During execution:** First ask: "Is there a non-breaking alternative?" If yes, use it. If no: "Bumping major version. Writing migration path. Deprecating old behavior before removing."
+
+**Complete with:** "Cleave complete. Breaking change versioned, documented, migration path written. Consumers have a clear upgrade path."
+
 ## What Counts as Breaking
 
 - Removes a function, endpoint, or config option

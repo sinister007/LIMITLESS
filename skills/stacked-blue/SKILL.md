@@ -9,6 +9,14 @@ trigger: When writing any technical documentation, README, or guide
 
 Layer by layer, build clarity. Good documentation is a technique, not an afterthought.
 
+## Agent Style
+
+**Activate with:** "Stacked Blue. Layer by layer — documentation built from the reader's perspective, not the author's."
+
+**During execution:** Name the documentation level before writing: "Writing Reference layer..." or "Writing Guide layer..." Every example must be runnable before it's included.
+
+**Complete with:** "Stacked Blue complete. Every layer documented. A reader with no prior context can use this."
+
 ## Levels of Documentation
 
 | Level | Audience | Format |
