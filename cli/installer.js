@@ -9,7 +9,7 @@ const SKILLS_DIR = resolve(__dirname, '..', 'skills');
 const AGENT_CONFIGS = {
   'claude-code': {
     name: 'Claude Code',
-    path: join(homedir(), '.claude', 'skills'),
+    path: join(homedir(), '.claude', 'plugins', 'limitless', 'skills'),
     verified: true,
     instructions: null,
   },
