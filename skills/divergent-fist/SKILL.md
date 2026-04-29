@@ -1,5 +1,6 @@
 ---
-name: "Divergent Fist [Performance Optimization]"
+name: "divergent-fist"
+title: "Divergent Fist [Performance Optimization]"
 description: Identifies and eliminates performance bottlenecks through measurement-first approach
 trigger: When performance is a concern — slow pages, slow queries, high CPU or memory usage
 ---

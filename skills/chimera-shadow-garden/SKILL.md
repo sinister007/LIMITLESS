@@ -1,5 +1,6 @@
 ---
-name: "Chimera Shadow Garden [Parallel Agent Dispatch]"
+name: "chimera-shadow-garden"
+title: "Chimera Shadow Garden [Parallel Agent Dispatch]"
 description: Identifies truly independent tasks and dispatches them as parallel agents in one message
 trigger: When 2 or more tasks exist that share no state and have no sequential dependencies
 ---

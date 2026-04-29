@@ -1,5 +1,6 @@
 ---
-name: "Shrine [Receiving Code Review]"
+name: "shrine"
+title: "Shrine [Receiving Code Review]"
 description: Processes incoming code review feedback before making any changes
 trigger: When receiving code review feedback from a human or automated reviewer
 ---

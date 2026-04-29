@@ -10,7 +10,7 @@ function parseSkillMeta(content) {
   const match = content.match(/^---\n([\s\S]*?)\n---/);
   if (!match) return { name: 'Unknown', description: '', trigger: '' };
   const fm = match[1];
-  const name = fm.match(/name:\s*"(.+?)"/)?.[1] || 'Unknown';
+  const name = fm.match(/title:\s*"(.+?)"/)?.[1] || fm.match(/name:\s*"(.+?)"/)?.[1] || 'Unknown';
   const description = fm.match(/description:\s*(.+)/)?.[1]?.trim() || '';
   const trigger = fm.match(/trigger:\s*(.+)/)?.[1]?.trim() || '';
   return { name, description, trigger };
@@ -33,7 +33,7 @@ export async function listSkills() {
     if (!existsSync(skillPath)) continue;
     const content = readFileSync(skillPath, 'utf8');
     const { name, description } = parseSkillMeta(content);
-    console.log(`  ${p.primary(name)}`);
+    console.log(`  ${p.dim('limitless')} ${p.primary(name)}`);
     console.log(`  ${p.dim(description)}`);
     console.log();
   }
@@ -55,7 +55,7 @@ export async function showSkillInfo(skillName) {
   const content = readFileSync(skillPath, 'utf8');
   const { name, description, trigger } = parseSkillMeta(content);
 
-  console.log(p.header(name));
+  console.log(p.dim('limitless') + ' ' + p.header(name));
   console.log();
   console.log(p.primary('Description:  ') + p.accent(description));
   console.log(p.primary('Invoke when:  ') + p.accent(trigger));

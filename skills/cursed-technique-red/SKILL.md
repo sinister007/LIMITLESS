@@ -1,5 +1,6 @@
 ---
-name: "Cursed Technique: Red [Plan Execution]"
+name: "cursed-technique-red"
+title: "Cursed Technique: Red [Plan Execution]"
 description: Executes written implementation plans task-by-task with checkpoints and verification
 trigger: When you have a written implementation plan to execute in this session
 ---

@@ -1,5 +1,6 @@
 ---
-name: "Six Eyes [Requesting Code Review]"
+name: "six-eyes"
+title: "Six Eyes [Requesting Code Review]"
 description: Triggers structured code review after completing a major feature or logical chunk
 trigger: When a major implementation step is complete, before merging or declaring done
 ---

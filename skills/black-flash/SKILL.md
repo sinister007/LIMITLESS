@@ -1,5 +1,6 @@
 ---
-name: "Black Flash [Test-Driven Development]"
+name: "black-flash"
+title: "Black Flash [Test-Driven Development]"
 description: Enforces RED-GREEN-REFACTOR cycle — write the failing test before any implementation code
 trigger: When implementing any feature, fix, or change to existing behavior
 ---

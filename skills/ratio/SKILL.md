@@ -1,5 +1,6 @@
 ---
-name: "Ratio [Code Decomposition]"
+name: "ratio"
+title: "Ratio [Code Decomposition]"
 description: Splits large overloaded files and modules into clean well-bounded units
 trigger: When a file has grown too large, has multiple responsibilities, or is hard to test
 ---

@@ -1,5 +1,6 @@
 ---
-name: "Cursed Energy [How to Use Limitless]"
+name: "cursed-energy"
+title: "Cursed Energy [How to Use Limitless]"
 description: Entry point — establishes when and how to invoke skills before any task
 trigger: At the start of every conversation before any response or action
 ---

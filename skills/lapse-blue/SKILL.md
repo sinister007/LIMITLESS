@@ -1,5 +1,6 @@
 ---
-name: "Lapse: Blue [Code Refactoring]"
+name: "lapse-blue"
+title: "Lapse: Blue [Code Refactoring]"
 description: Structured refactoring process that improves code structure without changing behavior
 trigger: When refactoring existing code — improving structure without changing behavior
 ---

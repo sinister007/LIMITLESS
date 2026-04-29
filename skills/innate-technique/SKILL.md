@@ -1,5 +1,6 @@
 ---
-name: "Innate Technique [Writing Custom Skills]"
+name: "innate-technique"
+title: "Innate Technique [Writing Custom Skills]"
 description: Creates new skills for the Limitless framework following the standard format
 trigger: When creating a new skill, editing an existing skill, or validating skill quality
 ---

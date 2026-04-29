@@ -1,5 +1,6 @@
 ---
-name: "De-Merger [API Design & Separation]"
+name: "de-merger"
+title: "De-Merger [API Design & Separation]"
 description: Designs clean API boundaries and well-separated interfaces between components
 trigger: When designing a new API, refactoring an existing one, or defining component boundaries
 ---

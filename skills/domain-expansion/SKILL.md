@@ -1,5 +1,6 @@
 ---
-name: "Domain Expansion [Creative Brainstorming]"
+name: "domain-expansion"
+title: "Domain Expansion [Creative Brainstorming]"
 description: Turns ideas into fully-formed designs through collaborative dialogue before any code is written
 trigger: When starting any new feature, project, component, or creative work
 ---
