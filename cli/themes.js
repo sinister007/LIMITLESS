@@ -82,33 +82,18 @@ export function createCyclingSpinner(ora, theme, initialText) {
 }
 
 export async function changeTheme() {
-  const { default: inquirer } = await import('inquirer');
+  const { selectThemeInteractive } = await import('./theme-selector.js');
   const currentConfig = loadConfig();
-  const themes = allThemes();
-  const p = paint(getCurrentTheme());
 
-  console.log(p.header('Change Theme'));
-  console.log();
+  const selectedThemeObj = await selectThemeInteractive(currentConfig.theme || 'infinity');
 
-  const { selectedTheme } = await inquirer.prompt([
-    {
-      type: 'list',
-      name: 'selectedTheme',
-      message: 'Choose your technique:',
-      choices: themes.map(t => ({
-        name: `${t.name} — ${t.character}`,
-        value: t.id,
-      })),
-      default: currentConfig.theme || 'infinity',
-    }
-  ]);
-
-  currentConfig.theme = selectedTheme;
+  console.clear();
+  currentConfig.theme = selectedThemeObj.id;
   saveConfig(currentConfig);
 
-  const newTheme = loadTheme(selectedTheme);
-  const np = paint(newTheme);
+  const np = paint(selectedThemeObj);
   console.log();
-  console.log(np.success(`✓ Theme changed to: ${newTheme.name} — ${newTheme.character}`));
-  console.log(np.primary(newTheme.messages.welcome));
+  console.log(np.success(`✓ Theme changed to: ${selectedThemeObj.name} — ${selectedThemeObj.character}`));
+  console.log(np.primary(selectedThemeObj.messages.welcome));
+  console.log();
 }

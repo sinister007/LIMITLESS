@@ -3,6 +3,7 @@ import ora from 'ora';
 import { getCurrentTheme, paint, saveConfig, loadConfig, allThemes, loadTheme, getRandomQuote, createCyclingSpinner } from './themes.js';
 import { printHeader } from './ascii.js';
 import { installForAgent } from './installer.js';
+import { selectThemeInteractive } from './theme-selector.js';
 
 const AGENTS = [
   { name: 'Claude Code', value: 'claude-code' },
@@ -26,19 +27,8 @@ export async function install() {
   console.log(p.dim('JJK-themed skills framework for coding agents.'));
   console.log();
 
-  const themes = allThemes();
-  const { selectedTheme } = await inquirer.prompt([
-    {
-      type: 'list',
-      name: 'selectedTheme',
-      message: p.header('Choose your technique (theme):'),
-      choices: themes.map(t => ({
-        name: `${t.name} — ${t.character}`,
-        value: t.id,
-      })),
-      default: loadConfig().theme || 'infinity',
-    }
-  ]);
+  const selectedThemeObj = await selectThemeInteractive(loadConfig().theme || 'infinity');
+  const selectedTheme = selectedThemeObj.id;
 
   const config = loadConfig();
   config.theme = selectedTheme;
