@@ -1,0 +1,37 @@
+{
+  "id": "infinity",
+  "name": "Infinity",
+  "character": "Gojo Satoru",
+  "primary": "#7C3AED",
+  "accent": "#FFFFFF",
+  "dim": "#A78BFA",
+  "success": "#10B981",
+  "error": "#EF4444",
+  "warning": "#F59E0B",
+  "spinner": {
+    "loading": "Channeling cursed energy...",
+    "success": "Technique activated.",
+    "error": "Cursed technique failed."
+  },
+  "messages": {
+    "welcome": "You obtained the Six Eyes. Limitless is yours.",
+    "installed": "Skills bound to your cursed energy.",
+    "synced": "The Infinity has been updated."
+  },
+  "quotes": [
+    "Throughout Heaven and Earth, I alone am the honored one.",
+    "Sorry, I don't have much time. I'll bury you in a sec.",
+    "Didn't I tell you? I'm the strongest.",
+    "You don't need to understand. Just know I'm the strongest.",
+    "Weakness is a sin. Forgive me.",
+    "I'll show you what a real barrier looks like.",
+    "With the Six Eyes, I see everything."
+  ],
+  "spinnerMessages": [
+    "Channeling cursed energy...",
+    "Activating Six Eyes...",
+    "Expanding Infinity...",
+    "Limitless technique engaged...",
+    "Honored One awakens..."
+  ]
+}

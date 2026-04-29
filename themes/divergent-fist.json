@@ -1,0 +1,37 @@
+{
+  "id": "divergent-fist",
+  "name": "Divergent Fist",
+  "character": "Itadori Yuji",
+  "primary": "#EA580C",
+  "accent": "#1E3A5F",
+  "dim": "#9A3412",
+  "success": "#16A34A",
+  "error": "#DC2626",
+  "warning": "#CA8A04",
+  "spinner": {
+    "loading": "Pushing cursed energy through...",
+    "success": "Divergent Fist landed.",
+    "error": "Strike missed."
+  },
+  "messages": {
+    "welcome": "I'll keep moving forward no matter what.",
+    "installed": "Skills ready to diverge.",
+    "synced": "Fist recharged."
+  },
+  "quotes": [
+    "I'll keep moving forward no matter what.",
+    "Even if I die, I'll die surrounded by allies.",
+    "My fists will reach you.",
+    "I don't need a reason to help someone.",
+    "I'll stop you here, even if it kills me.",
+    "As long as I'm alive, I'll keep punching.",
+    "Divergent fist — the second hit lands harder."
+  ],
+  "spinnerMessages": [
+    "Pushing cursed energy through...",
+    "Divergent Fist charging...",
+    "Impact resonating...",
+    "Second strike incoming...",
+    "Strike landed..."
+  ]
+}

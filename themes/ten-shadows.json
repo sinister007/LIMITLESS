@@ -1,0 +1,37 @@
+{
+  "id": "ten-shadows",
+  "name": "Ten Shadows",
+  "character": "Fushiguro Megumi",
+  "primary": "#0F766E",
+  "accent": "#CBD5E1",
+  "dim": "#134E4A",
+  "success": "#059669",
+  "error": "#EF4444",
+  "warning": "#F59E0B",
+  "spinner": {
+    "loading": "Summoning shikigami...",
+    "success": "Shikigami bound.",
+    "error": "Shikigami lost."
+  },
+  "messages": {
+    "welcome": "Ten shadows, ten techniques. Use them well.",
+    "installed": "Shikigami installed and ready.",
+    "synced": "Shadow library updated."
+  },
+  "quotes": [
+    "I don't need saving. I need to get stronger.",
+    "Ten shikigami. Ten shadows. Ten chances.",
+    "A cursed technique inherited through blood.",
+    "I'll use every shadow available to me.",
+    "The path forward is dark. I walk it anyway.",
+    "Mahoraga cannot be tamed. I'll try anyway.",
+    "Divine General Mahoraga. Eight-Handled Wheel."
+  ],
+  "spinnerMessages": [
+    "Summoning shikigami...",
+    "Shadows converging...",
+    "Binding cursed technique...",
+    "Ten shadows aligning...",
+    "Shikigami bound..."
+  ]
+}

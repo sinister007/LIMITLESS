@@ -1,0 +1,20 @@
+{
+  "name": "limitless",
+  "version": "1.0.0",
+  "description": "JJK-themed agentic skills framework for coding agents",
+  "type": "module",
+  "bin": {
+    "limitless": "./cli/index.js"
+  },
+  "keywords": ["ai", "coding-agent", "claude", "cursor", "skills", "jujutsu-kaisen"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "diff": "^5.1.0",
+    "inquirer": "^9.2.0",
+    "ora": "^8.0.1"
+  }
+}

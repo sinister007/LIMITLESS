@@ -1,0 +1,37 @@
+{
+  "id": "ratio",
+  "name": "Ratio",
+  "character": "Nanami Kento",
+  "primary": "#D97706",
+  "accent": "#374151",
+  "dim": "#92400E",
+  "success": "#059669",
+  "error": "#EF4444",
+  "warning": "#F59E0B",
+  "spinner": {
+    "loading": "Calculating ratio...",
+    "success": "7:3 achieved.",
+    "error": "Ratio broken."
+  },
+  "messages": {
+    "welcome": "Work is fundamentally about precision.",
+    "installed": "Skills distributed at optimal ratio.",
+    "synced": "Ratios recalculated."
+  },
+  "quotes": [
+    "Work is fundamentally about precision.",
+    "This is our job. We have no choice.",
+    "7:3. Find the weak point. Strike.",
+    "Overtime is beyond my contract.",
+    "A sorcerer's duty is to protect people.",
+    "Do not waste your potential.",
+    "The ratio never lies."
+  ],
+  "spinnerMessages": [
+    "Calculating ratio...",
+    "Finding the weak point...",
+    "Precision at 7:3...",
+    "Technique applied...",
+    "Ratio confirmed..."
+  ]
+}

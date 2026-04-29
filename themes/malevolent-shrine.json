@@ -1,0 +1,37 @@
+{
+  "id": "malevolent-shrine",
+  "name": "Malevolent Shrine",
+  "character": "Ryomen Sukuna",
+  "primary": "#DC2626",
+  "accent": "#F59E0B",
+  "dim": "#7F1D1D",
+  "success": "#10B981",
+  "error": "#B91C1C",
+  "warning": "#D97706",
+  "spinner": {
+    "loading": "Dismantle...",
+    "success": "Shrine expanded.",
+    "error": "Technique reversed."
+  },
+  "messages": {
+    "welcome": "Bow. I am the King of Curses.",
+    "installed": "Skills carved into existence.",
+    "synced": "The shrine has been redrawn."
+  },
+  "quotes": [
+    "Know your place.",
+    "I am the King of Curses.",
+    "Bow. This is absolute.",
+    "There is no saving you.",
+    "I'll devour everything in my domain.",
+    "Dismantle. Cleave. Repeat.",
+    "You called upon the King of Curses. Face the consequences."
+  ],
+  "spinnerMessages": [
+    "Dismantle...",
+    "Shrine expanding...",
+    "Cleaving through...",
+    "King of Curses awakens...",
+    "Malevolent Shrine activated..."
+  ]
+}
