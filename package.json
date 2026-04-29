@@ -4,7 +4,7 @@
   "description": "JJK-themed agentic skills framework for coding agents",
   "type": "module",
   "bin": {
-    "limitless": "./cli/index.js"
+    "limitless-jjk": "./cli/index.js"
   },
   "keywords": [
     "ai",
