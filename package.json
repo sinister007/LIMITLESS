@@ -1,6 +1,6 @@
 {
   "name": "limitless-jjk",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "JJK-themed agentic skills framework for coding agents",
   "type": "module",
   "bin": {
