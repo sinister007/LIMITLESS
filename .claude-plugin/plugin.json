@@ -1,0 +1,19 @@
+{
+  "name": "limitless",
+  "description": "JJK-themed agentic skills framework — 24 techniques for coding agents",
+  "version": "1.0.0",
+  "author": {
+    "name": "vahabpv"
+  },
+  "homepage": "https://github.com/sinister007/LIMITLESS",
+  "repository": "https://github.com/sinister007/LIMITLESS",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "jujutsu-kaisen",
+    "ai",
+    "coding-agent",
+    "claude",
+    "cursor"
+  ]
+}
