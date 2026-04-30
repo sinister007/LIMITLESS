@@ -1,5 +1,5 @@
 ---
-name: "prison-realm"
+name: prison-realm
 title: "Prison Realm [Dependency Management]"
 description: Audits, evaluates, and manages project dependencies safely
 trigger: When adding, removing, auditing, or troubleshooting project dependencies

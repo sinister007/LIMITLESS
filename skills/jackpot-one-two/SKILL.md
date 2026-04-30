@@ -1,5 +1,5 @@
 ---
-name: "jackpot-one-two"
+name: jackpot-one-two
 title: "Jackpot: One-Two [CI/CD Pipeline Setup]"
 description: Sets up automated build, test, and deploy pipelines with correct stage sequencing
 trigger: When setting up or modifying CI/CD pipelines, automation workflows, or deployment processes

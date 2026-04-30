@@ -1,5 +1,5 @@
 ---
-name: "idle-transfiguration"
+name: idle-transfiguration
 title: "Idle Transfiguration [Legacy Code Modernization]"
 description: Transforms legacy code incrementally without breaking consumers
 trigger: When modernizing legacy code, upgrading deprecated APIs, or migrating old patterns

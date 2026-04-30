@@ -1,5 +1,5 @@
 ---
-name: "cleave"
+name: cleave
 title: "Cleave [Managing Breaking Changes]"
 description: Handles breaking changes safely with versioning, deprecation warnings, and migration paths
 trigger: When making a change that breaks existing consumers, APIs, or published interfaces

@@ -1,5 +1,5 @@
 ---
-name: "stacked-blue"
+name: stacked-blue
 title: "Stacked Blue [Writing Documentation]"
 description: Layered, structured technical writing — from API reference to architecture guides
 trigger: When writing any technical documentation, README, or guide

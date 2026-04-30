@@ -1,5 +1,5 @@
 ---
-name: "barrier-technique"
+name: barrier-technique
 title: "Barrier Technique [Git Worktree Isolation]"
 description: Isolates feature work in a git worktree to keep the main workspace clean
 trigger: When starting feature work that needs isolation from the current workspace

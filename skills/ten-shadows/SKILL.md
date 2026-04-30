@@ -1,5 +1,5 @@
 ---
-name: "ten-shadows"
+name: ten-shadows
 title: "Ten Shadows [Subagent-Driven Development]"
 description: Executes implementation plans by dispatching a fresh subagent per task with review between each
 trigger: When executing an implementation plan and subagent dispatch is available

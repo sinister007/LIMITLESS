@@ -1,5 +1,5 @@
 ---
-name: "reverse-cursed-technique"
+name: reverse-cursed-technique
 title: "Reverse Cursed Technique [Systematic Debugging]"
 description: Root-cause analysis process — understand the failure before modifying any code
 trigger: When encountering any bug, test failure, or unexpected behavior

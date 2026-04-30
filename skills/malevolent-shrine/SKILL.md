@@ -1,5 +1,5 @@
 ---
-name: "malevolent-shrine"
+name: malevolent-shrine
 title: "Malevolent Shrine [Pre-Completion Verification]"
 description: Verification gate — run before claiming any work is done, fixed, or passing
 trigger: Before saying "done", "fixed", "complete", or "tests pass"

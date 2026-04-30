@@ -1,5 +1,5 @@
 ---
-name: "hollow-purple"
+name: hollow-purple
 title: "Hollow Purple [Finishing a Dev Branch]"
 description: Handles the full branch-finishing flow — tests, review decision, merge, cleanup
 trigger: When implementation is complete, all tests pass, and you need to land the branch

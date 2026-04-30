@@ -1,5 +1,5 @@
 ---
-name: "maximum-hollow-purple"
+name: maximum-hollow-purple
 title: "Maximum: Hollow Purple [Full System Architecture]"
 description: End-to-end system design for new systems — requirements, architecture decisions, decomposition, and planning
 trigger: When designing a new system, platform, or major feature set from scratch

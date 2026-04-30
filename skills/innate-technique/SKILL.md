@@ -1,5 +1,5 @@
 ---
-name: "innate-technique"
+name: innate-technique
 title: "Innate Technique [Writing Custom Skills]"
 description: Creates new skills for the Limitless framework following the standard format
 trigger: When creating a new skill, editing an existing skill, or validating skill quality
@@ -25,7 +25,7 @@ Your innate technique is unique. Shape it precisely.
 
 ```yaml
 ---
-name: "JJK Name [Functional Description]"
+name: JJK Name [Functional Description]
 description: One-line — what this skill does and when agents should use it
 trigger: Precise condition for when to invoke this skill
 ---

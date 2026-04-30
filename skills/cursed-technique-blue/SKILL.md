@@ -1,5 +1,5 @@
 ---
-name: "cursed-technique-blue"
+name: cursed-technique-blue
 title: "Cursed Technique: Blue [Implementation Planning]"
 description: Converts approved design specs into detailed bite-sized implementation plans with full code
 trigger: When you have an approved design spec and need an implementation plan
